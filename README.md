@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud services and business processes automation
 - 🌱 I’m currently learning about web3 projects, copywritting & mental models
 - 💞️ I’m looking to collaborate on Cloud Services and Web3 projects
-- 📫 How to reach me: nuno.sacouto@ua.pt 
+- 📫 How to reach me: nuno.sacouto@ua.pt / nuno.sacouto@ritain.io / https://linked.com/in/nscouto
 
 <!---
 nunoscouto/nunoscouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
